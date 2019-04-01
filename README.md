@@ -65,6 +65,7 @@ hugo server
 You can go to localhost:1313 and this theme should be visible.
 
 ## Inspirations
+- [natarajmb](https://natarajmb.github.io/charaka-hugo-theme/)
 - [Hemingway](https://themes.gohugo.io/hemingway/)
 - [Journal](https://themes.gohugo.io/hugo-journal/)
 - Apple iBooks colour scheme
